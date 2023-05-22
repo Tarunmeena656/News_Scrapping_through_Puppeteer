@@ -1,0 +1,2295 @@
+{
+    "rss": {
+        "$": {
+            "xmlns:media": "http://search.yahoo.com/mrss/",
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "version": "2.0"
+        },
+        "channel": [
+            {
+                "title": [
+                    "India Today | Latest Stories"
+                ],
+                "description": [
+                    "India Today"
+                ],
+                "atom:link": [
+                    {
+                        "$": {
+                            "href": "https://www.indiatoday.in/rss/home",
+                            "rel": "self",
+                            "type": "application/rss+xml"
+                        }
+                    }
+                ],
+                "link": [
+                    " https://www.indiatoday.in/?utm_source=rss "
+                ],
+                "lastBuildDate": [
+                    "Thu, 18 May 2023 15:53:36+05:30"
+                ],
+                "generator": [
+                    "FeedCreator 1.7.2"
+                ],
+                "image": [
+                    {
+                        "url": [
+                            "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png"
+                        ],
+                        "title": [
+                            "India Today | Latest Stories"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/?utm_source=rss "
+                        ],
+                        "description": [
+                            "India Today"
+                        ]
+                    }
+                ],
+                "item": [
+                    {
+                        "title": [
+                            "Zakir Naik's agent converted my son Saurabh to Saleem: Dad of arrested terror-accused "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-01-51-pm-2456-sixteen_nine-_3.jpg?VersionId=SML56lS1jajXNzSWkToWcu67zZGl9EOn\"> </a> Zakir Naiks agent converted my son Saurabh to Saleem Dad of arrested terroraccused  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:53:36+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC stays West Bengal government's order banning film 'The Kerala Story'"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/the-kerala-story-bengal-ban-supreme-court-2380900-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/the-kerala-story-bengal-ban-supreme-court-2380900-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/the_kerala_story_6-sixteen_nine.jpg?VersionId=uXLlBc9wDf0m1zkw2ZVwq4eOM24577Cp\"> </a> SC stays West Bengal governments order banning film The Kerala Story "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:18:53+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Can't disclose: DK Shivakumar on Karnataka power sharing formula "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/karnataka-cm-live-updates-siddaramaiah-dk-shivakumar-karnataka-assembly-election-rahul-gandhi-sonia-gandhi-congress-high-command-2380722-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/karnataka-cm-live-updates-siddaramaiah-dk-shivakumar-karnataka-assembly-election-rahul-gandhi-sonia-gandhi-congress-high-command-2380722-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/assets/202305/DKS_0-original--sixteen_nine_0-sixteen_nine.jpg?VersionId=9gJuTdHQMzxRMrrH0HHEj0zllDIktCBj\"> </a> Cant disclose DK Shivakumar on Karnataka power sharing formula  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 09:30:41+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC declines to issue stay on Patna HC's order over caste census"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/supreme-court-stay-bihar-high-court-caste-census-nitish-kumar-2380870-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/supreme-court-stay-bihar-high-court-caste-census-nitish-kumar-2380870-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sc_3-sixteen_nine.jpg?VersionId=hMnwe5vsdytR_PKPRnLwfpH.d7orTGBg\"> </a> SC declines to issue stay on Patna HCs order over caste census "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:20:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "PM Modi flags off Odisha’s 1st Vande Bharat Express. Check fare, route, and timing here"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/vande-bharat-odisha-howrah-puri-pm-modi-to-flag-off-fare-route-timing-details-2380729-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/vande-bharat-odisha-howrah-puri-pm-modi-to-flag-off-fare-route-timing-details-2380729-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/pm-modi-new-pti-sixteen_nine.jpg?VersionId=ddEjUN77itIHsPaJcEWaKKd7oIFahJNb\"> </a> PM Modi flags off Odishas st Vande Bharat Express Check fare route and timing here "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:34:00+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC upholds validity of Jallikattu, but directs states to ensure safety of animals "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/supreme-court-upholds-validity-of-jallikattu-calls-bull-taming-event-cruel-2380774-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/supreme-court-upholds-validity-of-jallikattu-calls-bull-taming-event-cruel-2380774-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-11-29-am-1016-sixteen_nine.jpg?VersionId=ohgW3ak1UTgClqVqT2B4NY_khzijdxLu\"> </a> SC upholds validity of Jallikattu but directs states to ensure safety of animals  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:28:08+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Govt shuffles cabinet, Arjun Ram Meghwal replaces Kiren Rijiju as Law Minister"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/kiren-rijiju-removed-as-law-minister-arjun-ram-meghwal-rijiju-cabinet-shuffle-2380738-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/kiren-rijiju-removed-as-law-minister-arjun-ram-meghwal-rijiju-cabinet-shuffle-2380738-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-10-26-am-4898-sixteen_nine.jpg?VersionId=kClZGu7F6fDbqgjSZKAnmlwuQ5lV.IM9\"> </a> Govt shuffles cabinet Arjun Ram Meghwal replaces Kiren Rijiju as Law Minister "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:09:08+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "New law minister Arjun Meghwal: IAS-turned Rajasthan politician who loves riding bicycle"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/arjun-ram-meghwal-new-law-minister-ias-officer-turned-politician-rajasthan-2380834-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/arjun-ram-meghwal-new-law-minister-ias-officer-turned-politician-rajasthan-2380834-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/arjun_ram_meghwal_pti-sixteen_nine.jpg?VersionId=32BmUasbBBtZSIX_rzif1L_N_5dz6nua\"> </a> New law minister Arjun Meghwal IASturned Rajasthan politician who loves riding bicycle "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:42:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Karnataka: Shivakumar accepts formula, says 'more responsibility on me now'"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/dk-shivakumar-confirms-becoming-karnataka-deputy-cm-exclusive-2380734-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/dk-shivakumar-confirms-becoming-karnataka-deputy-cm-exclusive-2380734-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/dkshivkumar-sixteen_nine.jpg?VersionId=eNClJrCbQosD_e6Z8ahlBAC3hTtcC3ks\"> </a> Karnataka Shivakumar accepts formula says more responsibility on me now "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:04:53+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Congress' Karnataka power-sharing formula that isn't"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/news-analysis/story/how-congress-reached-karnataka-solution-no-power-sharing-formula-carte-blanche-to-kharge-2380826-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/news-analysis/story/how-congress-reached-karnataka-solution-no-power-sharing-formula-carte-blanche-to-kharge-2380826-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sidda_dk-sixteen_nine.jpg?VersionId=EEjlVd5nLRmP8IM538yKSHe.1QskPpNB\"> </a> Congress Karnataka powersharing formula that isnt "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:07:16+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "So Raghav Chadha and Nick Jonas are ‘saadu bhai’ now! Desi Twitter reacts"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/so-raghav-chadha-and-nick-jonas-are-saadu-bhai-now-desi-twitters-sudden-realisation-prompts-meme-fest-2380878-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/so-raghav-chadha-and-nick-jonas-are-saadu-bhai-now-desi-twitters-sudden-realisation-prompts-meme-fest-2380878-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/pariprirn-sixteen_nine.jpg?VersionId=KrB6xyoHNiTAs3hNqyNhKNvD.26f3U3a\"> </a> So Raghav Chadha and Nick Jonas are saadu bhai now Desi Twitter reacts "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:29:57+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Once considered 'right wing', new Karnataka CM Siddaramaiah is an old warhorse"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/siddaramaiah-chief-minister-karnataka-assembly-polls-dk-shivakumar-congress-jds-bjp-2380723-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/elections/karnataka-assembly-polls-2023/story/siddaramaiah-chief-minister-karnataka-assembly-polls-dk-shivakumar-congress-jds-bjp-2380723-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/pti05_13_2023_000442b-sixteen_nine.jpg?VersionId=hzO0yfowG9R2kJ3X4FyzDAmyZtzR8msr\"> </a> Once considered right wing new Karnataka CM Siddaramaiah is an old warhorse "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:12:19+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Surat man booked for raping girlfriend, inserting chilli powder in her private parts"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/gujarat-rape-physical-assault-chilli-powder-private-parts-2380526-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/gujarat-rape-physical-assault-chilli-powder-private-parts-2380526-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/rape_surat-sixteen_nine.jpg?VersionId=9haq45H6gfW_eNnPeWNr2Xvt_ejLh.uj\"> </a> Surat man booked for raping girlfriend inserting chilli powder in her private parts "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 20:33:45+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Beat the heat! Tamil Nadu man pours water on himself riding scooter"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/video/beat-the-heat-tamil-nadu-man-pours-water-on-himself-riding-scooter-2380873-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/video/beat-the-heat-tamil-nadu-man-pours-water-on-himself-riding-scooter-2380873-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/grvf-sixteen_nine.jpg?VersionId=F94DhGyyoV48lCUEydFMIXL4BcXz7PM1\"> </a> Beat the heat Tamil Nadu man pours water on himself riding scooter "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:31:59+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Russia fires 30 cruise missiles at Ukrainian targets; Ukraine says 29 were shot down"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/world/story/russia-ukraine-war-russia-fires-30-cruise-missiles-ukrainian-targets-ukraine-29-shot-down-2380891-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/world/story/russia-ukraine-war-russia-fires-30-cruise-missiles-ukrainian-targets-ukraine-29-shot-down-2380891-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/missile-sixteen_nine.jpg?VersionId=U9shAGLSdA8Ra08SxodqkDzeD5qDkBAB\"> </a> Russia fires  cruise missiles at Ukrainian targets Ukraine says  were shot down "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:59:57+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sara Ali Khan’s ‘modern Indian’ look for Cannes Day 2: Decoded"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/fashion/story/sara-ali-khans-modern-indian-look-for-cannes-day-2-decoded-2380779-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/fashion/story/sara-ali-khans-modern-indian-look-for-cannes-day-2-decoded-2380779-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/gettyimages-1491043537-sixteen_nine.jpg?VersionId=DCgkDYnRnI41ImLSdxUuqilwGx_JFbdp\"> </a> Sara Ali Khans modern Indian look for Cannes Day  Decoded "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:17:08+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Satyaprem Ki Katha teaser out! Kartik-Kiara's film will remind you of 90s Bollywood romance"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/bollywood/story/satyaprem-ki-katha-teaser-out-kartik-aaryan-kiara-advanis-film-will-remind-you-of-90s-bollywood-romance-2380794-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/bollywood/story/satyaprem-ki-katha-teaser-out-kartik-aaryan-kiara-advanis-film-will-remind-you-of-90s-bollywood-romance-2380794-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/fburnqxagae1hr8-sixteen_nine.jpg?VersionId=a15F1o1fPq1DE08noab61ZfXQyLigWaG\"> </a> Satyaprem Ki Katha teaser out KartikKiaras film will remind you of s Bollywood romance "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:05:22+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Parineeti-Raghav seek blessings from Giani Harpreet Singh in pics from ardaas ceremony"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-shares-inside-pics-from-ardaas-giani-harpreet-singh-actress-father-pawan-chopra-getting-emotional-2380796-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-shares-inside-pics-from-ardaas-giani-harpreet-singh-actress-father-pawan-chopra-getting-emotional-2380796-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/parineeti_3-sixteen_nine.jpg?VersionId=u3Q6F5stWzBga4jyc.YQlseZtdeyT2U4\"> </a> ParineetiRaghav seek blessings from Giani Harpreet Singh in pics from ardaas ceremony "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:32:46+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SRK fans claim Tom Cruise's Mission Impossible 7 copied Pathaan's popular train sequence"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-fans-claim-tom-cruises-mission-impossible-7-copied-pathaans-popular-train-sequence-with-salman-khan-see-tweets-2380880-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-fans-claim-tom-cruises-mission-impossible-7-copied-pathaans-popular-train-sequence-with-salman-khan-see-tweets-2380880-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/untitled_design_-_2023-05-18t143152.463-sixteen_nine.png?VersionId=i.zDxz1VyqtRQMcB771Ge5FhQffCakqv\"> </a> SRK fans claim Tom Cruises Mission Impossible  copied Pathaans popular train sequence "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:42:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Earth-like planet covered with erupting volcanoes discovered"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/science/story/earth-like-planet-covered-with-erupting-volcanoes-discovered-2380775-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/science/story/earth-like-planet-covered-with-erupting-volcanoes-discovered-2380775-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/volcanic_earth-sixteen_nine.jpg?VersionId=d2E8C6vZueSGM6tW9ya37lEaTHMvp9tI\"> </a> Earthlike planet covered with erupting volcanoes discovered "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:30:37+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "From Apple to Amazon: Top global firms bet on India's growth story "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/business/story/top-companies-investing-in-india-amazon-apple-cisco-walmart-foxconn-2380890-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/business/story/top-companies-investing-in-india-amazon-apple-cisco-walmart-foxconn-2380890-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/indian-rupee-2_0-sixteen_nine.png?VersionId=7FfaYYVsj4V32KJs3NtrPAcK9z7QzeYa\"> </a> From Apple to Amazon Top global firms bet on Indias growth story  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:56:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Mrunal Thakur turns 'desi girl' on Day 3 of Cannes. Samantha sends 'love'"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/celebrities/photo/mrunal-thakur-turns-desi-girl-on-day-3-of-cannes-samantha-sends-love-2380854-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/celebrities/photo/mrunal-thakur-turns-desi-girl-on-day-3-of-cannes-samantha-sends-love-2380854-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/mrunal-sixteen_nine.jpg?VersionId=qDIwiI2i7.OarwMDLPIJ.IYrJVjzfdVT\"> </a> Mrunal Thakur turns desi girl on Day  of Cannes Samantha sends love "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:51:52+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "AI threatens humanity’s future, could endanger civilisation"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/science/story/ai-threatens-humanitys-future-could-endanger-civilisation-2380819-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/science/story/ai-threatens-humanitys-future-could-endanger-civilisation-2380819-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ai_0-sixteen_nine.jpg?VersionId=6oFND9QXy8Ue_FaIKVdPAU78pQ.VRzbV\"> </a> AI threatens humanitys future could endanger civilisation "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:50:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Why Hardik Pandya is The Best Captain in IPL 2023 | Sledging Room, Ep 49"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/sports/sledging-room/why-hardik-pandya-is-the-best-captain-in-ipl-2023-sledging-room-ep-49-559598-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/sports/sledging-room/why-hardik-pandya-is-the-best-captain-in-ipl-2023-sledging-room-ep-49-559598-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/49-one_one.jpg\"> </a> Why Hardik Pandya is The Best Captain in IPL   Sledging Room Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Imran Khan: Saviour Of Democracy Or Frankenstein's Monster?| Geeta's World Ep 44"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/politics-&-history/geetas-world/imran-khan-saviour-of-pakistans-democracy-or-frankensteins-monster-geetas-world-ep-44-559084-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/politics-&-history/geetas-world/imran-khan-saviour-of-pakistans-democracy-or-frankensteins-monster-geetas-world-ep-44-559084-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/geeta-44-one_one.jpg\"> </a> Imran Khan Saviour Of Democracy Or Frankensteins Monster Geetas World Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Karnataka Polls: The Big Takeaways  | Nothing But The Truth Ep 51"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/news/nothing-but-the-truth/karnataka-polls-the-big-takeaways-nothing-but-the-truth-ep-51-557676-2023-05-13?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/news/nothing-but-the-truth/karnataka-polls-the-big-takeaways-nothing-but-the-truth-ep-51-557676-2023-05-13\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/main_0-one_one.jpg\"> </a> Karnataka Polls The Big Takeaways   Nothing But The Truth Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Pakistan's Kaptaan Crisis | In Our Defence Ep 58"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/politics-&-history/in-our-defence/pakistans-kaptaan-crisis-in-our-defence-ep-58-556623-2023-05-11?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/politics-&-history/in-our-defence/pakistans-kaptaan-crisis-in-our-defence-ep-58-556623-2023-05-11\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/58-one_one.jpg\"> </a> Pakistans Kaptaan Crisis  In Our Defence Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Has Kohli Done More Harm Than Good for RCB in IPL 2023? | Sledging Room, Ep 48"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/sports/sledging-room/has-kohli-done-more-harm-than-good-for-rcb-in-ipl-2023-sledging-room-ep-48-556083-2023-05-10?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/sports/sledging-room/has-kohli-done-more-harm-than-good-for-rcb-in-ipl-2023-sledging-room-ep-48-556083-2023-05-10\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/48-one_one.jpg\"> </a> Has Kohli Done More Harm Than Good for RCB in IPL   Sledging Room Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SCO Summit: Why India's Playbook Has Barbs For Pakistan But Diplomatic Restraint For China | Geeta's World Ep 43"
+                        ],
+                        "link": [
+                            " https://podcasts.indiatoday.in/politics-&-history/geetas-world/sco-summit-why-indias-playbook-has-barbs-for-pakistan-but-diplomatic-restraint-for-china-geetas-world-ep-43-555610-2023-05-09?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://podcasts.indiatoday.in/politics-&-history/geetas-world/sco-summit-why-indias-playbook-has-barbs-for-pakistan-but-diplomatic-restraint-for-china-geetas-world-ep-43-555610-2023-05-09\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/lingo/itpod/images/podcast/202305/geeta-43-one_one.jpg\"> </a> SCO Summit Why Indias Playbook Has Barbs For Pakistan But Diplomatic Restraint For China  Geetas World Ep  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:03+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Rajdeep Sardesai"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/rajdeep-sardesai?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/rajdeep-sardesai\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202011/rajdeep-1200x768-profile_image_one_to_one.jpg?VersionId=ZY4aTbjTEZRW8RaqjmxWm3q3wNH4kCAm\"> </a> Rajdeep Sardesai "
+                        ],
+                        "pubDate": [
+                            "Fri, 09 Oct 2015 14:40:46+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Rahul Kanwal"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/rahul-kanwal?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/rahul-kanwal\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202011/Rahul-Kanwal-1200x768-profile_image_one_to_one.jpg?VersionId=Er8Lq48KlIMm3H65oDU1IwgmcTUQipCk\"> </a> Rahul Kanwal "
+                        ],
+                        "pubDate": [
+                            "Tue, 04 Aug 2015 18:43:16+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Shiv Aroor"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/shiv-aroor?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/shiv-aroor\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202011/shiv_aroor-1200x768-profile_image_one_to_one.jpg?VersionId=0p6WxP3fI9m53zTUcOVCi1WzgoHRr7H9\"> </a> Shiv Aroor "
+                        ],
+                        "pubDate": [
+                            "Tue, 04 Aug 2015 18:43:16+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Gaurav C Sawant"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/gaurav-c-sawant?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/gaurav-c-sawant\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202011/Gaurav-C-Sawant-1200x768-profile_image_one_to_one.jpg?VersionId=UluFJuuo4lYVkUWvnl9SgckOQbcG76rh\"> </a> Gaurav C Sawant "
+                        ],
+                        "pubDate": [
+                            "Tue, 04 Aug 2015 18:43:16+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Preeti Choudhry"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/preeti-choudhry?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/preeti-choudhry\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202011/preeti-choudhry_0-1200x768-profile_image_one_to_one.jpg?VersionId=piF1IOmvjfDIECGOiuRVxi1RsTOgzH72\"> </a> Preeti Choudhry "
+                        ],
+                        "pubDate": [
+                            "Fri, 03 Feb 2017 12:30:28+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Chaiti Narula"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/anchor/chaiti-narula?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/anchor/chaiti-narula\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/reporter/202203/CN_0_x-profile_image_one_to_one.jpeg?VersionId=2k2Or8D2nENrMU6HA9sXXKnwfj8nFc4B\"> </a> Chaiti Narula "
+                        ],
+                        "pubDate": [
+                            "Tue, 12 Mar 2019 13:21:50+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "News Today"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programmes/news-today?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programmes/news-today\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/News-Today-Rajdeep-Sardesai_320x240.jpg?VersionId=AH5FO98iiYC1UfkcbQR5.VdZVis4QSKf\"> </a> News Today "
+                        ],
+                        "pubDate": [
+                            "Fri, 07 Oct 2022 13:01:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Newstrack with Rahul Kanwal"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programmes/newstrack-with-rahul-kanwal?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programmes/newstrack-with-rahul-kanwal\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/320X240_News_Track.jpg?VersionId=AAHwkpoq8Nvi1wn3i2VfuGhZ24busazq\"> </a> Newstrack with Rahul Kanwal "
+                        ],
+                        "pubDate": [
+                            "Fri, 07 Oct 2022 13:01:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "To The Point"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programmes/to-the-point?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programmes/to-the-point\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/To-The-Point-Preeti.jpg?VersionId=vmR5nKRmf_TLYLb57yjOwVSV470JUvzi\"> </a> To The Point "
+                        ],
+                        "pubDate": [
+                            "Fri, 07 Oct 2022 13:01:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "5ive Live"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programmes/5ive-live?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programmes/5ive-live\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/5ive-Live-Shiv-Aroor.jpg?VersionId=I8WPmDg.KyVryFTMbA.To5O9VAnVfMJZ\"> </a> ive Live "
+                        ],
+                        "pubDate": [
+                            "Fri, 07 Oct 2022 13:01:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "India First"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programmes/india-first?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programmes/india-first\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/india_first.jpg?VersionId=D9ecPF.jfCJZ6Qwf0TChC6NYoz1YHpMp\"> </a> India First "
+                        ],
+                        "pubDate": [
+                            "Fri, 07 Oct 2022 13:01:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Zakir Naik's agent converted my son Saurabh to Saleem: Dad of arrested terror-accused "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-01-51-pm-2456-sixteen_nine-_3.jpg?VersionId=SML56lS1jajXNzSWkToWcu67zZGl9EOn\"> </a> Zakir Naiks agent converted my son Saurabh to Saleem Dad of arrested terroraccused  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:53:36+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Congress declares Siddaramaiah as Karnataka CM, Shivakumar as his deputy"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/video/congress-declares-siddaramaiah-as-karnataka-cm-shivakumar-as-his-deputy-2380820-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/video/congress-declares-siddaramaiah-as-karnataka-cm-shivakumar-as-his-deputy-2380820-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/whatsapp_image_2023-05-18_at_11.10.12_am-sixteen_nine.jpeg?VersionId=Zo6mKEEHIMPcmcya1e5raZURbof03KFP\"> </a> Congress declares Siddaramaiah as Karnataka CM Shivakumar as his deputy "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:55:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Union cabinet rijig: Kiren Rijiju replaced as Law Minister, takes over Earth Sciences Ministry"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/kiren_rijiju_1-sixteen_nine.png?VersionId=ubcp.YkROWWHGOedLG546DDPo69ATNau\"> </a> Union cabinet rijig Kiren Rijiju replaced as Law Minister takes over Earth Sciences Ministry "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:42:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sonia Gandhi acts as peacemaker in Karnataka CM face crisis; There is more responsibility, says DK Shivakumar; more"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/dk_10-sixteen_nine.jpg?VersionId=G_MEeiaA3ZzNtz.4m77Uzr3JHJdar5AN\"> </a> Sonia Gandhi acts as peacemaker in Karnataka CM face crisis There is more responsibility says DK Shivakumar more "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:22:05+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Over Rs 8,000 crore allocated for Disaster Management in Odisha : PM Modi"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/video/over-rs-8000-crore-allocated-for-disaster-management-in-odisha-pm-modi-2380850-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/video/over-rs-8000-crore-allocated-for-disaster-management-in-odisha-pm-modi-2380850-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/modi_tiger-sixteen_nine.png?VersionId=Wii08LYjSAaBHq2VilYEYNT_gDLEZ6VR\"> </a> Over Rs  crore allocated for Disaster Management in Odisha  PM Modi "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:48:31+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Diana Penty returns to Cannes for the second time. Says 'excited to be a part of the event again'"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/celebrities/story/diana-penty-returns-to-cannes-for-the-second-time-says-excited-to-be-a-part-of-the-event-again-2380896-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/celebrities/story/diana-penty-returns-to-cannes-for-the-second-time-says-excited-to-be-a-part-of-the-event-again-2380896-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/341769227_1284346555835309_6250271950916950981_n-sixteen_nine.jpg?VersionId=CF8jwcDRxr1CWlJUA5Ho2aDNGeDe4AZ3\"> </a> Diana Penty returns to Cannes for the second time Says excited to be a part of the event again "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:28:28+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Japanese Kabuki actor Ennosuke Ichikawa collapses in closet, parents declared dead: Report"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/hollywood/story/japanese-kabuki-actor-ennosuke-ichikawa-collapses-in-closet-parents-declared-dead-report-2380885-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/hollywood/story/japanese-kabuki-actor-ennosuke-ichikawa-collapses-in-closet-parents-declared-dead-report-2380885-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ennosuke_ichikawa_health-sixteen_nine.jpg?VersionId=IAZf8QEbPkpgFcGnPMIuRp_RmGzLOBHh\"> </a> Japanese Kabuki actor Ennosuke Ichikawa collapses in closet parents declared dead Report "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:24:40+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "BTS' V and BLACKPINK's Jennie rumoured to be dating. Timeline of their alleged relationship "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/korean-wave/story/bts-v-and-blackpinks-jennie-rumoured-to-be-dating-timeline-of-their-alleged-relationship-2380883-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/korean-wave/story/bts-v-and-blackpinks-jennie-rumoured-to-be-dating-timeline-of-their-alleged-relationship-2380883-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/taekim-sixteen_nine.jpg?VersionId=55iYqwbdw.F.aRjV1RqmPjeNNKwETea8\"> </a> BTS V and BLACKPINKs Jennie rumoured to be dating Timeline of their alleged relationship  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:54:48+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Superstar Rajinikanth and Kapil Dev pose for an epic picture. Seen yet?"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/regional-cinema/story/superstar-rajinikanth-meets-kapil-dev-latter-shares-pic-and-writes-an-honour-to-be-with-the-great-man-2380884-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/regional-cinema/story/superstar-rajinikanth-meets-kapil-dev-latter-shares-pic-and-writes-an-honour-to-be-with-the-great-man-2380884-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/347338522_261339159610268_5393857666099894995_n-sixteen_nine.jpg?VersionId=jeJWjAIqh8Wdqk9Bbimii6kCmMqY5Non\"> </a> Superstar Rajinikanth and Kapil Dev pose for an epic picture Seen yet "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:46:38+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "15-min recipes from MasterChef Australia 15 kitchen"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/entertainment/c-37084-18-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/entertainment/c-37084-18-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-MC_KeyArt_s04_Group_1639_Comp-copy-SQ-scaled-1.webp\"> </a> min recipes from MasterChef Australia  kitchen "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sanju Samson’s impressive record vs PBKS"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/sports/sanju-samsons-impressive-record-vs-pbks-37118-18-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/sports/sanju-samsons-impressive-record-vs-pbks-37118-18-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/04/cropped-SAMSON-RR-AP-2.jpg\"> </a> Sanju Samsons impressive record vs PBKS "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "5 Yoga Asanas To Reduce Belly Fat"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/lifestyle/5-yoga-asanas-to-reduce-belly-fat-37069-18-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/lifestyle/5-yoga-asanas-to-reduce-belly-fat-37069-18-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-233706971_886482335283603_2171574503853720901_n.jpg\"> </a>  Yoga Asanas To Reduce Belly Fat "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "10 secret WhatsApp tricks you didn't know"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/technology/10-secret-whatsapp-tricks-you-didnt-know-36994-17-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/technology/10-secret-whatsapp-tricks-you-didnt-know-36994-17-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/04/cropped-whatsApp-message-1.jpg\"> </a>  secret WhatsApp tricks you didnt know "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Yummy Kimchi Fried Rice Recipe"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/food/yummy-kimchi-fried-rice-recipe-36979-17-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/food/yummy-kimchi-fried-rice-recipe-36979-17-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-istockphoto-1162851383-170667a.jpg\"> </a> Yummy Kimchi Fried Rice Recipe "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Esha Gupta's DIY Face Mask For Dry Skin"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/wellness/esha-guptas-diy-face-mask-for-dry-skin-36988-17-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/wellness/esha-guptas-diy-face-mask-for-dry-skin-36988-17-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-Esha-Gupta-pls.png\"> </a> Esha Guptas DIY Face Mask For Dry Skin "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Alia Bhatt's Luxury Hangbag Collection"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/entertainment/alia-bhatts-luxury-hangbag-collection-37071-18-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/entertainment/alia-bhatts-luxury-hangbag-collection-37071-18-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-347077036_654764536483870_4809503214117413907_n.jpg\"> </a> Alia Bhatts Luxury Hangbag Collection "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Can PBKS qualify for IPL 2023 playoffs after DC defeat?"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/sports/can-pbks-qualify-for-ipl-2023-playoffs-after-dc-defeat-37100-18-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/sports/can-pbks-qualify-for-ipl-2023-playoffs-after-dc-defeat-37100-18-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-Punjab-Kings-4.jpg\"> </a> Can PBKS qualify for IPL  playoffs after DC defeat "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Fashion Ka Jalwa At Cannes 2023 Day 1"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/lifestyle/fashion-ka-jalwa-at-cannes-2023-day-1-indian-divas-sara-ali-khan-esha-gupta-manushi-36858-17-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/lifestyle/fashion-ka-jalwa-at-cannes-2023-day-1-indian-divas-sara-ali-khan-esha-gupta-manushi-36858-17-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-sara-ali-khan-cannes-lehenga-2.jpg\"> </a> Fashion Ka Jalwa At Cannes  Day  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Google vs OpenAI: 8 features where Bard has an edge over ChatGPT"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/visualstories/technology/8-features-where-bard-has-an-edge-over-chatgpt-36336-14-05-2023?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/visualstories/technology/8-features-where-bard-has-an-edge-over-chatgpt-36336-14-05-2023\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2023/05/cropped-bard-google.jpg\"> </a> Google vs OpenAI  features where Bard has an edge over ChatGPT "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:55:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Man shares emotional WhatsApp status after daughter forgets to order fruits through Instamart. Swiggy reacts"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/man-shares-emotional-whatsapp-status-after-daughter-forgets-to-order-fruits-through-instamart-swiggy-reacts-2380935-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/man-shares-emotional-whatsapp-status-after-daughter-forgets-to-order-fruits-through-instamart-swiggy-reacts-2380935-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/befunky-collage_2_3-sixteen_nine.jpg?VersionId=R9_EpjMdVRn6_p0tec9FQg6dSnna4JIR\"> </a> Man shares emotional WhatsApp status after daughter forgets to order fruits through Instamart Swiggy reacts "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:52:11+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "So Raghav Chadha and Nick Jonas are ‘saadu bhai’ now! Desi Twitter reacts"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/so-raghav-chadha-and-nick-jonas-are-saadu-bhai-now-desi-twitters-sudden-realisation-prompts-meme-fest-2380878-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/so-raghav-chadha-and-nick-jonas-are-saadu-bhai-now-desi-twitters-sudden-realisation-prompts-meme-fest-2380878-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/pariprirn-sixteen_nine.jpg?VersionId=KrB6xyoHNiTAs3hNqyNhKNvD.26f3U3a\"> </a> So Raghav Chadha and Nick Jonas are saadu bhai now Desi Twitter reacts "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:29:57+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Umpire saves 7-yr-old boy from dust devil during baseball game in scary viral video. Watch"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/umpire-saves-7-yr-old-boy-from-dust-devil-during-baseball-game-in-scary-viral-video-watch-2380864-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/umpire-saves-7-yr-old-boy-from-dust-devil-during-baseball-game-in-scary-viral-video-watch-2380864-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/befunky-collage_1_4-sixteen_nine.jpg?VersionId=O4YPUIoTzULqQuk1_GJTdXoCzAekHW5Z\"> </a> Umpire saves yrold boy from dust devil during baseball game in scary viral video Watch "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:19:21+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Little boy protects his shop amid storm. Nagaland minister shares video with hard-hitting message"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/little-boy-protects-his-shop-amid-storm-nagaland-minister-temjen-imna-along-shares-viral-video-with-hard-hitting-message-2380805-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/little-boy-protects-his-shop-amid-storm-nagaland-minister-temjen-imna-along-shares-viral-video-with-hard-hitting-message-2380805-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/befunky-collage__1-sixteen_nine.jpg?VersionId=izpczfAQAhzSHGsi9l_3gVoV6mAcmWIi\"> </a> Little boy protects his shop amid storm Nagaland minister shares video with hardhitting message "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:35:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Old ad featuring Shah Rukh and Gauri Khan goes viral. Complete nostalgia, says Internet"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/trending-news/story/old-ad-featuring-shah-rukh-and-gauri-khan-goes-viral-complete-nostalgia-says-internet-2380798-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/trending-news/story/old-ad-featuring-shah-rukh-and-gauri-khan-goes-viral-complete-nostalgia-says-internet-2380798-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/gauri_srk-sixteen_nine.png?VersionId=ysuRUq07WjiNLBODs.wc6NcHeOWM0WDx\"> </a> Old ad featuring Shah Rukh and Gauri Khan goes viral Complete nostalgia says Internet "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:18:01+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Infosys slashes employees' average variable pay to 60 per cent, says market conditions are volatile "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/technology/news/story/infosys-slashes-employees-average-variable-pay-to-60-per-cent-says-market-conditions-are-volatile-2380868-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/technology/news/story/infosys-slashes-employees-average-variable-pay-to-60-per-cent-says-market-conditions-are-volatile-2380868-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/screenshot_2023-05-18_at_2.09.50_pm-sixteen_nine.png?VersionId=vQ3tmfYN.edx33kyTYs58wCySgpN7l1u\"> </a> Infosys slashes employees average variable pay to  per cent says market conditions are volatile  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:52:24+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "OnePlus Nord 3 India price leaked ahead of June launch, here are the details "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/technology/news/story/oneplus-nord-3-india-price-leaked-ahead-of-june-launch-here-are-the-details-2380903-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/technology/news/story/oneplus-nord-3-india-price-leaked-ahead-of-june-launch-here-are-the-details-2380903-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/oneplus_phone-sixteen_nine.jpg?VersionId=QYyfqoMhIOzN3ITxUvd2Z1fMqsxVYt09\"> </a> OnePlus Nord  India price leaked ahead of June launch here are the details  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:30:43+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Do you watch YouTube on Smart TVs? Google will start adding very long ads: Here is how to skip"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/technology/news/story/do-you-watch-youtube-on-smart-tvs-google-will-start-adding-very-long-ads-here-is-how-to-skip-2380886-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/technology/news/story/do-you-watch-youtube-on-smart-tvs-google-will-start-adding-very-long-ads-here-is-how-to-skip-2380886-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/youtube-sixteen_nine.jpg?VersionId=4we7mqALkUNIuiRFIGAwA.q2wMXuyQEl\"> </a> Do you watch YouTube on Smart TVs Google will start adding very long ads Here is how to skip "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:50:36+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Farmer’s son enrols in AI and machine learning course, gets job as data engineer with 100 per cent salary hike"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/technology/news/story/farmer-son-enrols-in-ai-and-machine-learning-course-gets-job-as-data-engineer-with-100-per-cent-salary-hike-2380797-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/technology/news/story/farmer-son-enrols-in-ai-and-machine-learning-course-gets-job-as-data-engineer-with-100-per-cent-salary-hike-2380797-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/caspar-camille-rubin-fpkvu7rdmco-unsplash-sixteen_nine.jpg?VersionId=vuoOMEEfVf2jFEibBfOjVjszIhgH6jd2\"> </a> Farmers son enrols in AI and machine learning course gets job as data engineer with  per cent salary hike "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:41:32+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Inside Parineeti Chopra, Raghav Chadha's engagement ceremony | PICS"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/celebrities/photo/inside-parineeti-chopra-raghav-chadhas-engagement-ceremony-pics-2378963-2023-05-14?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/celebrities/photo/inside-parineeti-chopra-raghav-chadhas-engagement-ceremony-pics-2378963-2023-05-14\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/346583054_266052892562882_2217076626319592560_n_0-sixteen_nine.jpg?VersionId=Wpv5y7Mw60OXNt9T2H5RWjNpQfngn1TH\"> </a> Inside Parineeti Chopra Raghav Chadhas engagement ceremony  PICS "
+                        ],
+                        "pubDate": [
+                            "Sun, 14 May 2023 09:40:47+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Desi Girl Priyanka Chopra stuns in vibrant fusion saree at Parineeti's engagement with Raghav Chadha. Pics"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/fashion/photo/desi-girl-priyanka-chopra-stuns-in-vibrant-fusion-saree-at-parineetis-engagement-with-raghav-chadha-pics-2378889-2023-05-13?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/fashion/photo/desi-girl-priyanka-chopra-stuns-in-vibrant-fusion-saree-at-parineetis-engagement-with-raghav-chadha-pics-2378889-2023-05-13\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/untitled_design_-_2023-05-13t215013.143-sixteen_nine.jpg?VersionId=.miLo6mFq0qwB_w0tL23g9aFHpcFepYJ\"> </a> Desi Girl Priyanka Chopra stuns in vibrant fusion saree at Parineetis engagement with Raghav Chadha Pics "
+                        ],
+                        "pubDate": [
+                            "Sat, 13 May 2023 22:03:19+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Beyonce kicks off Renaissance World Tour in spectacular outfits"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/fashion/photo/beyonce-kicks-off-renaissance-world-tour-in-spectacular-outfits-pics-will-blow-your-mind-2377822-2023-05-11?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/fashion/photo/beyonce-kicks-off-renaissance-world-tour-in-spectacular-outfits-pics-will-blow-your-mind-2377822-2023-05-11\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/thumbnail_gettyimages-1488956120_0-sixteen_nine.jpg?VersionId=3Z3Dd7gjYhgttmKzpnT6Spnv_A269x00\"> </a> Beyonce kicks off Renaissance World Tour in spectacular outfits "
+                        ],
+                        "pubDate": [
+                            "Thu, 11 May 2023 17:46:11+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Salman Khan meets CM Mamata Banerjee in Kolkata ahead of Da-Bangg tour. See pics"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/movies/celebrities/photo/salman-khan-meets-cm-mamata-banerjee-in-kolkata-ahead-of-da-bangg-tour-see-pics-2378816-2023-05-13?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/movies/celebrities/photo/salman-khan-meets-cm-mamata-banerjee-in-kolkata-ahead-of-da-bangg-tour-see-pics-2378816-2023-05-13\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/salman_13-sixteen_nine.jpg?VersionId=XHhnfEEmj79C00yeUepzbQVR6YC4pBhz\"> </a> Salman Khan meets CM Mamata Banerjee in Kolkata ahead of DaBangg tour See pics "
+                        ],
+                        "pubDate": [
+                            "Sat, 13 May 2023 19:53:23+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Jayasuriya to Surya: Mumbai Indians' centurions in IPL "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/sports/cricket/photo/jayasuriya-to-surya-mumbai-indians-centurions-in-ipl-2378467-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/sports/cricket/photo/jayasuriya-to-surya-mumbai-indians-centurions-in-ipl-2378467-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/photo_gallery/202305/pti05_12_2023_000303a-sixteen_nine.jpg?VersionId=d1NcIbt9HhpAwyccl4kGfr69hLZol7.y\"> </a> Jayasuriya to Surya Mumbai Indians centurions in IPL  "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 23:08:38+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Livingstone heroics in vain as DC hurt Punjab Kings' IPL 2023 playoffs chances"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-playoffs-liam-livingstone-punjab-kings-vs-delhi-capitals-dharamshala-2380648-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-playoffs-liam-livingstone-punjab-kings-vs-delhi-capitals-dharamshala-2380648-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/axar_patel_dc_vs_pbks_ap1-sixteen_nine.jpg?VersionId=bKPbB7EB2SI.suROWTYyxmInGqvcLoh7\"> </a> Livingstone heroics in vain as DC hurt Punjab Kings IPL  playoffs chances "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 23:35:09+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "PBKS should explain why Arshdeep has been marginalised: Aakash Chopra"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-pbks-vs-dc-arshdeep-singh-shikhar-dhawan-dharamshala-aakash-chopra-2380688-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-pbks-vs-dc-arshdeep-singh-shikhar-dhawan-dharamshala-aakash-chopra-2380688-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ap23137529375745-sixteen_nine.jpg?VersionId=W0vSCdUeNxXXW6St.ikQ6TnCS_WMoQ3a\"> </a> PBKS should explain why Arshdeep has been marginalised Aakash Chopra "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 07:38:30+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "IPL 2023: Definitely see Gill becoming as big as Kohli or Tendulkar, says Robin Uthappa"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-shubman-gill-virat-kohli-sachin-tendulkar-yashasvi-jaiswal-robin-uthappa-gujarat-titans-2380732-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/sports/ipl-2023/story/ipl-2023-shubman-gill-virat-kohli-sachin-tendulkar-yashasvi-jaiswal-robin-uthappa-gujarat-titans-2380732-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ap23135573668895_1-sixteen_nine.jpg?VersionId=Eq4kYEd2Rsvgd1t_vSP8mDqylmryx2Il\"> </a> IPL  Definitely see Gill becoming as big as Kohli or Tendulkar says Robin Uthappa "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:00:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "UCL: Guardiola 'had a feeling' City would deliver against Real Madrid after entering final"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/sports/football/story/uefa-champions-league-manchester-city-vs-real-madrid-pep-guardiola-bernardo-silva-etihad-stadium-2380704-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/sports/football/story/uefa-champions-league-manchester-city-vs-real-madrid-pep-guardiola-bernardo-silva-etihad-stadium-2380704-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/2023-05-17t211000z_1202284768_up1ej5h1msmxl_rtrmadp_3_soccer-champions-mci-mad-report-sixteen_nine.jpg?VersionId=aZuaLFhIevY4Dj1c0CqA7YLSyqGsu0.H\"> </a> UCL Guardiola had a feeling City would deliver against Real Madrid after entering final "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 08:38:50+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Same sex, same rights"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/magazine/cover-story/story/20230522-same-sex-same-rights-2377900-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/magazine/cover-story/story/20230522-same-sex-same-rights-2377900-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/same-sex-lead-sixteen_nine.jpg?VersionId=qxw4WstwntPiEEZo2Rt_SV1TbrZ3f4AA\"> </a> Same sex same rights "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 19:52:15+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Reimagining Asia's largest slum | Transforming Dharavi"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/magazine/special-report/story/20230522-reimagining-asias-largest-slum-transforming-dharavi-2377905-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/magazine/special-report/story/20230522-reimagining-asias-largest-slum-transforming-dharavi-2377905-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/dharavi-slums-in-mumbai-010-sixteen_nine.jpg?VersionId=Of2LRQDhnRFyUZw6ABXNyiZte6u6Mxar\"> </a> Reimagining Asias largest slum  Transforming Dharavi "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 13:42:38+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Money laundering racket busted | The engineer of graft"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/magazine/crime/story/20230522-money-laundering-racket-busted-the-engineer-of-graft-2377903-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/magazine/crime/story/20230522-money-laundering-racket-busted-the-engineer-of-graft-2377903-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/virendra-ram-sixteen_nine.jpg?VersionId=gywPsnVtqddYkMshF5E8qHYmZ6W.1Ee7\"> </a> Money laundering racket busted  The engineer of graft "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 13:10:46+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Go First bankruptcy | Crisis in the skies"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/magazine/the-big-story/story/20230522-go-first-bankruptcy-crisis-in-the-skies-2377904-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/magazine/the-big-story/story/20230522-go-first-bankruptcy-crisis-in-the-skies-2377904-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/go-air-ani-sixteen_nine.jpg?VersionId=IOTuCEYf1DH5Qc8X2rQF9QzjKOPsGZHK\"> </a> Go First bankruptcy  Crisis in the skies "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 14:33:20+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Ganesh Haloi | Shifting images"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/magazine/leisure/story/20230522-ganesh-haloi-shifting-images-2378389-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/magazine/leisure/story/20230522-ganesh-haloi-shifting-images-2378389-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ganesh_haloi_1-sixteen_nine.jpg?VersionId=SNdWafbqS4XpY7a3oFthph_29idjGJIC\"> </a> Ganesh Haloi  Shifting images "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 19:32:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "2023-05-22"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/content/2023-05-22?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/content/2023-05-22\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/indiatoday/resources/img/default-690x413.png\"> </a>  "
+                        ],
+                        "pubDate": [
+                            "Thu, 11 May 2023 19:24:06+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Why the Japanese are taking lessons on how to smile"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/newsmo/video/why-the-japanese-are-taking-lessons-on-how-to-smile-2380859-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/newsmo/video/why-the-japanese-are-taking-lessons-on-how-to-smile-2380859-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/whatsapp_image_2023-05-17_at_8.38.28_pm-sixteen_nine.jpeg?VersionId=T1dZHGTGGl0rB4pWnPHfsT9tvVmIzXSl\"> </a> Why the Japanese are taking lessons on how to smile "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:05:04+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Taliban replaces ambassador to India, will New Delhi recognise?"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/newsmo/video/taliban-replaces-ambassador-to-india-will-new-delhi-recognise-2380856-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/newsmo/video/taliban-replaces-ambassador-to-india-will-new-delhi-recognise-2380856-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/whatsapp_image_2023-05-17_at_7.11.53_pm-sixteen_nine.jpeg?VersionId=jma2qSptsZcIF6ad2_Ds6lhZZIVfHFtc\"> </a> Taliban replaces ambassador to India will New Delhi recognise "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:59:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Indian matchmaker Sima Taparia's chatbot speaks exactly like her, check out here"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/newsmo/video/indian-matchmaker-sima-taparias-chatbot-speaks-exactly-like-her-check-out-here-2380602-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/newsmo/video/indian-matchmaker-sima-taparias-chatbot-speaks-exactly-like-her-check-out-here-2380602-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/yt_fb_horizontal_-_2023-05-17t201945.394-sixteen_nine.jpg?VersionId=zvOS2yL5p6bJXF0RVqQJmQp9hVz0gpbo\"> </a> Indian matchmaker Sima Taparias chatbot speaks exactly like her check out here "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 21:27:00+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Protests at Cannes | Here’s a timeline of the protests that shook this Red Carpet over the years"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/newsmo/video/protests-at-cannes-heres-a-timeline-of-the-protests-that-shook-this-red-carpet-over-the-years-2380594-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/newsmo/video/protests-at-cannes-heres-a-timeline-of-the-protests-that-shook-this-red-carpet-over-the-years-2380594-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/horizontal_72-sixteen_nine.jpeg?VersionId=SMmIvftvU2BJq0P82Tdm4Dfycyn8MaTw\"> </a> Protests at Cannes  Heres a timeline of the protests that shook this Red Carpet over the years "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 20:26:54+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Cannes Film Festival: How Hitler and World War 2 led to emergence of Cannes "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/newsmo/video/cannes-film-festival-how-hitler-and-world-war-2-led-to-emergence-of-cannes-2380593-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/newsmo/video/cannes-film-festival-how-hitler-and-world-war-2-led-to-emergence-of-cannes-2380593-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/image_7-sixteen_nine.jpeg?VersionId=gW2JX6fSunvdptsj8Jfr8wKXZU36ST6g\"> </a> Cannes Film Festival How Hitler and World War  led to emergence of Cannes "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 20:25:29+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "AI threatens humanity’s future, could endanger civilisation"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/science/story/ai-threatens-humanitys-future-could-endanger-civilisation-2380819-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/science/story/ai-threatens-humanitys-future-could-endanger-civilisation-2380819-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ai_0-sixteen_nine.jpg?VersionId=6oFND9QXy8Ue_FaIKVdPAU78pQ.VRzbV\"> </a> AI threatens humanitys future could endanger civilisation "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:50:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Earth-like planet covered with erupting volcanoes discovered"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/science/story/earth-like-planet-covered-with-erupting-volcanoes-discovered-2380775-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/science/story/earth-like-planet-covered-with-erupting-volcanoes-discovered-2380775-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/volcanic_earth-sixteen_nine.jpg?VersionId=d2E8C6vZueSGM6tW9ya37lEaTHMvp9tI\"> </a> Earthlike planet covered with erupting volcanoes discovered "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:30:37+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "India's Himalayan Telescope observes one of the most energetic objects in universe "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/science/story/indias-himalayan-telescope-observes-one-of-the-most-energetic-objects-in-universe-2380539-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/science/story/indias-himalayan-telescope-observes-one-of-the-most-energetic-objects-in-universe-2380539-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/iao-sixteen_nine.jpg?VersionId=SMXvfdAtMquvkF82EwXUZXn38PL9fphV\"> </a> Indias Himalayan Telescope observes one of the most energetic objects in universe  "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 18:51:20+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Southern Europe braces for climate change-fuelled summer of drought"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/environment/story/southern-europe-braces-for-climate-change-fuelled-summer-of-drought-2380465-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/environment/story/southern-europe-braces-for-climate-change-fuelled-summer-of-drought-2380465-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/spain_drought-sixteen_nine.jpg?VersionId=q7t77etIOI8pxI477slnq3K_913nc4jx\"> </a> Southern Europe braces for climate changefuelled summer of drought "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 16:54:37+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Electric two-wheeler sales in April: Ola continues to dominate, TVS & Ampere jostle for second spot"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/auto/latest-auto-news/story/electric-two-wheeler-sales-in-april-ola-continues-to-dominate-tvs-ampere-jostle-for-second-spot-2380563-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/auto/latest-auto-news/story/electric-two-wheeler-sales-in-april-ola-continues-to-dominate-tvs-ampere-jostle-for-second-spot-2380563-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ola_s1_pro-sixteen_nine.jpg?VersionId=bjQVPwxDJJeNXIwBhUirt.2e4wuTBqk3\"> </a> Electric twowheeler sales in April Ola continues to dominate TVS  Ampere jostle for second spot "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 19:31:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "2023 BMW 7 Series, i7 review, first drive"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/auto/reviews/story/2023-bmw-7-series-i7-review-first-drive-check-price-competition-rivals-engine-models-features-2380453-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/auto/reviews/story/2023-bmw-7-series-i7-review-first-drive-check-price-competition-rivals-engine-models-features-2380453-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/bmw-760i-xdrive-mineral-white_005_c-sixteen_nine.jpg?VersionId=cZjVVoertgMnQpkSE7R5cXXYGwWzZe_w\"> </a>  BMW  Series i review first drive "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 16:44:04+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Hyundai Exter vs Tata Punch: We compare engine specs of the two micro-SUVs"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/auto/cars/story/hyundai-exter-vs-tata-punch-we-compare-engine-specs-of-the-two-micro-suvs-2380386-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/auto/cars/story/hyundai-exter-vs-tata-punch-we-compare-engine-specs-of-the-two-micro-suvs-2380386-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/hyundai_exter_vs_tata_punch_-_og-sixteen_nine.jpg?VersionId=DjnDm5bIeQcOW3vwsktJxpKpQO54qKTQ\"> </a> Hyundai Exter vs Tata Punch We compare engine specs of the two microSUVs "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 14:34:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "2023 BMW X7 review, first drive"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/auto/reviews/story/2023-bmw-x7-review-first-drive-check-price-looks-competitions-india-price-engine-rivals-features-suv-2380391-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/auto/reviews/story/2023-bmw-x7-review-first-drive-check-price-looks-competitions-india-price-engine-rivals-features-suv-2380391-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/dsc_4859_c-sixteen_nine.jpg?VersionId=ej5dq5U9RjskVpE3y.wIbC0V7.ZgdNcJ\"> </a>  BMW X review first drive "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 14:33:33+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "From Apple to Amazon: Top global firms bet on India's growth story "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/business/story/top-companies-investing-in-india-amazon-apple-cisco-walmart-foxconn-2380890-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/business/story/top-companies-investing-in-india-amazon-apple-cisco-walmart-foxconn-2380890-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/indian-rupee-2_0-sixteen_nine.png?VersionId=7FfaYYVsj4V32KJs3NtrPAcK9z7QzeYa\"> </a> From Apple to Amazon Top global firms bet on Indias growth story  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:56:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Explained: What is tax collection at source and how to claim refund "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/business/story/what-is-tax-collection-at-source-liberalised-remittance-scheme-credit-cards-international-usage-2380824-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/business/story/what-is-tax-collection-at-source-liberalised-remittance-scheme-credit-cards-international-usage-2380824-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/lower_taxes-budget-sixteen_nine.png?VersionId=0mBxNzQfWtCaJvYFUnWvuYuDYmhz8ixg\"> </a> Explained What is tax collection at source and how to claim refund  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:04:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Govt announces 20% TCS on international credit card usage, faces pushback"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/business/story/government-20-percent-tcs-international-credit-card-spends-2380750-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/business/story/government-20-percent-tcs-international-credit-card-spends-2380750-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/credit-cards-sixteen_nine.png?VersionId=XITHjbFaCYjyLzm1ZUj3OvVL7DNVduOh\"> </a> Govt announces  TCS on international credit card usage faces pushback "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:41:09+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sensex, Nifty open higher tracking global cues; major Q4 earnings in focus "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/business/story/stock-market-opening-sensex-nifty-global-cues-q4-earnings-in-focus-2380731-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/business/story/stock-market-opening-sensex-nifty-global-cues-q4-earnings-in-focus-2380731-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stock-market-news_0-sixteen_nine.png?VersionId=Plr9WsGxayAo_V25rDTglccO_q5ZARid\"> </a> Sensex Nifty open higher tracking global cues major Q earnings in focus  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 09:58:43+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Union cabinet rijig: Kiren Rijiju replaced as Law Minister, takes over Earth Sciences Ministry"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/kiren_rijiju_1-sixteen_nine.png?VersionId=ubcp.YkROWWHGOedLG546DDPo69ATNau\"> </a> Union cabinet rijig Kiren Rijiju replaced as Law Minister takes over Earth Sciences Ministry "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:42:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sonia Gandhi acts as peacemaker in Karnataka CM face crisis; There is more responsibility, says DK Shivakumar; more"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/dk_10-sixteen_nine.jpg?VersionId=G_MEeiaA3ZzNtz.4m77Uzr3JHJdar5AN\"> </a> Sonia Gandhi acts as peacemaker in Karnataka CM face crisis There is more responsibility says DK Shivakumar more "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:22:05+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Siddaramaiah to be next Karnataka CM, DK Shivakumar to be his deputy; oath-taking ceremony on May 20"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/first-up/video/siddaramaiah-to-be-next-karnataka-cm-dk-shivakumar-to-be-his-deputy-oath-taking-ceremony-on-may-20-2380767-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/first-up/video/siddaramaiah-to-be-next-karnataka-cm-dk-shivakumar-to-be-his-deputy-oath-taking-ceremony-on-may-20-2380767-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/sites/indiatoday/resources/img/default-690x413.png\"> </a> Siddaramaiah to be next Karnataka CM DK Shivakumar to be his deputy oathtaking ceremony on May  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:19:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Business confidence index at 15-month low; GST rate cuts in limbo as elections loom; more"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/business-today/video/business-confidence-index-at-15-month-low-gst-rate-cuts-in-limbo-as-elections-loom-more-2380640-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/business-today/video/business-confidence-index-at-15-month-low-gst-rate-cuts-in-limbo-as-elections-loom-more-2380640-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/biz-sixteen_nine.jpg?VersionId=rXSwp0gPDhDn8jtZ570whne2VYt0QtC3\"> </a> Business confidence index at month low GST rate cuts in limbo as elections loom more "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 23:25:42+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Pak police surround Imran Khan's residence: Will he be arrested again? "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/india-first/video/pak-police-surround-imran-khans-residence-will-he-be-arrested-again-2380637-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/india-first/video/pak-police-surround-imran-khans-residence-will-he-be-arrested-again-2380637-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/im_3-sixteen_nine.jpg?VersionId=DnGuXtBKPL_YhKP6Bxz5nVgmsX9WSMQp\"> </a> Pak police surround Imran Khans residence Will he be arrested again "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 23:02:23+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SP Singh Baghel given Ministry of Health and Family Welfare portfolio"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/sp-singh-baghel-ministry-health-family-welfare-portfolio-law-justice-2380942-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/sp-singh-baghel-ministry-health-family-welfare-portfolio-law-justice-2380942-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/breaking_latest_news_1200x675_1-sixteen_nine_760.jpg?VersionId=YZOJspr7nEOqWE2qMcp00RKIk2zgIKU5\"> </a> SP Singh Baghel given Ministry of Health and Family Welfare portfolio "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:58:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Delhi govt bars chief secretary from passing orders related to state employee"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/delhi-government-bars-chief-secretary-from-passing-orders-related-to-state-employee-2380941-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/delhi-government-bars-chief-secretary-from-passing-orders-related-to-state-employee-2380941-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/breaking_latest_news_1200x675_1-sixteen_nine_759.jpg?VersionId=kgPvCu7_ir7wKtrV4ua.KjBBTw_xY75E\"> </a> Delhi govt bars chief secretary from passing orders related to state employee "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:57:00+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Zakir Naik's agent converted my son Saurabh to Saleem: Dad of arrested terror-accused "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-01-51-pm-2456-sixteen_nine-_3.jpg?VersionId=SML56lS1jajXNzSWkToWcu67zZGl9EOn\"> </a> Zakir Naiks agent converted my son Saurabh to Saleem Dad of arrested terroraccused  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:53:36+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "‘Should be engraved in gold’: Tamil Nadu CM Stalin welcomes SC Verdict on Jallikattu"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/tamil-nadu/story/supreme-court-jallikattu-verdict-tamil-nadu-cm-mk-stalin-tn-bjp-chief-annamalai-welcome-verdict-2380863-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/tamil-nadu/story/supreme-court-jallikattu-verdict-tamil-nadu-cm-mk-stalin-tn-bjp-chief-annamalai-welcome-verdict-2380863-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/stalin_on_jallikattu-sixteen_nine.png?VersionId=oAoMGIAyRahbuuTA9Rw_Uot3rxYGNGBZ\"> </a> Should be engraved in gold Tamil Nadu CM Stalin welcomes SC Verdict on Jallikattu "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:52:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Chennai Metro tickets now available on WhatsApp, with a 20% discount. Here's how to book"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/cities/chennai/story/chennai-metro-tickets-whatsapp-e-tickets-20-percent-discount-how-to-book-metro-ticket-2380341-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/cities/chennai/story/chennai-metro-tickets-whatsapp-e-tickets-20-percent-discount-how-to-book-metro-ticket-2380341-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/chennai_metro_0-sixteen_nine.jpeg?VersionId=L6zw12UX2JjSLeDFVNwNUTSKHlltkN4k\"> </a> Chennai Metro tickets now available on WhatsApp with a  discount Heres how to book "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:15:35+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Indore couple consumes poison during their wedding ceremony, groom dies, bride hospitalised"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/cities/indore/story/indore-couple-consumes-poison-wedding-ceremony-groom-dies-bride-admitted-2380706-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/cities/indore/story/indore-couple-consumes-poison-wedding-ceremony-groom-dies-bride-admitted-2380706-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/unsplash_danielle-dolson-xcnq8hpuy9o-unsplash-sixteen_nine.jpg?VersionId=WChXicwcEkTJkGN2PYETX7jWBhdgrYIh\"> </a> Indore couple consumes poison during their wedding ceremony groom dies bride hospitalised "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 11:12:21+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Delhi gets bus route map at ITO, more to be installed at 2,000 BQS. Here's how it would help commuters"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/cities/delhi/story/delhi-bus-route-map-ito-bus-queue-shelter-bqs-delhi-metro-kailash-gahlot-2380678-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/cities/delhi/story/delhi-bus-route-map-ito-bus-queue-shelter-bqs-delhi-metro-kailash-gahlot-2380678-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/img-20230517-wa0026-sixteen_nine.jpg?VersionId=AsG886yVFClRZYmbPYdTH0ouBoHPBL6r\"> </a> Delhi gets bus route map at ITO more to be installed at  BQS Heres how it would help commuters "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 08:27:31+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Conman poses as Delhi's ex-top cop, dupes elderly man of over Rs 7 lakh in sextortion"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/cities/delhi/story/conman-poses-as-delhis-ex-top-cop-dupes-75-year-old-man-of-over-rs-7-lakh-sextortion-2380690-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/cities/delhi/story/conman-poses-as-delhis-ex-top-cop-dupes-75-year-old-man-of-over-rs-7-lakh-sextortion-2380690-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/cop_assaulted_572022-sixteen_nine.jpg?VersionId=y21beDgOmBZSv9hAFPNNKEo_Hj5Inh9i\"> </a> Conman poses as Delhis extop cop dupes elderly man of over Rs  lakh in sextortion "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 08:00:31+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Delhi: Husband hires 2 men for killing wife as she seeks divorce, refuses to take care of ailing son"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/crime/story/delhi-rajouri-garden-man-funds-killing-wife-as-she-seeks-divorce-refuses-to-take-care-of-his-ailing-son-2380652-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/crime/story/delhi-rajouri-garden-man-funds-killing-wife-as-she-seeks-divorce-refuses-to-take-care-of-his-ailing-son-2380652-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/crime_rep_image_0-sixteen_nine.jpeg?VersionId=vUqhhNN.iWAVcks4RXEcFomtGZNF92zm\"> </a> Delhi Husband hires  men for killing wife as she seeks divorce refuses to take care of ailing son "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 00:09:26+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Changing caste-allegiances in Karnataka: Where Congress gained and where the others lost"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/diu/story/changing-caste-allegiances-karnataka-where-congress-gained-where-lost-2380180-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/diu/story/changing-caste-allegiances-karnataka-where-congress-gained-where-lost-2380180-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/dk-siddaramaiah-sixteen_nine.jpg?VersionId=G0ioIjwAoBRUdvkg90wGctxggtIU7HC_\"> </a> Changing casteallegiances in Karnataka Where Congress gained and where the others lost "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 07:35:04+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Choking on dust: Delhi's air-quality deteriorates, visibility plunges"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/diu/video/choking-on-dust-delhis-air-quality-deteriorates-visibility-plunges-2380016-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/diu/video/choking-on-dust-delhis-air-quality-deteriorates-visibility-plunges-2380016-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/dust-sixteen_nine.jpg?VersionId=lqDWarHpreoc2yXfqPEW.XYiDRrpasPs\"> </a> Choking on dust Delhis airquality deteriorates visibility plunges "
+                        ],
+                        "pubDate": [
+                            "Tue, 16 May 2023 18:05:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Karnataka Elections Fallout: Why JDS faces existential threat similar to BSP in UP"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/diu/story/karnataka-elections-jds-poor-performance-giving-bjp-and-congress-up-bsp-2379965-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/diu/story/karnataka-elections-jds-poor-performance-giving-bjp-and-congress-up-bsp-2379965-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/hd-kumaraswamy-sixteen_nine-_3-sixteen_nine-_3.jpg?VersionId=SEo3s8a6PEoj3ovYNmrWgU7AF2wxTbX5\"> </a> Karnataka Elections Fallout Why JDS faces existential threat similar to BSP in UP "
+                        ],
+                        "pubDate": [
+                            "Tue, 16 May 2023 17:06:02+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "It takes a village, and then some: Congress owes Karnataka victory to rural voters"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/diu/story/congress-owes-karnataka-victory-rural-voters-karnataka-polls-2378992-2023-05-14?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/diu/story/congress-owes-karnataka-victory-rural-voters-karnataka-polls-2378992-2023-05-14\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/karnatakacongress2-sixteen_nine.jpeg?VersionId=B3wpcsZ4uqOARx.Uz4.1iPzaO4XdmRev\"> </a> It takes a village and then some Congress owes Karnataka victory to rural voters "
+                        ],
+                        "pubDate": [
+                            "Sun, 14 May 2023 11:42:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Huge Congress mandate but few close calls: 2023 Karnataka polls witnessed more narrow margins than 2018"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/diu/story/karnataka-polls-congress-victory-seats-with-more-margins-comparison-2018-bjp-2378977-2023-05-14?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/diu/story/karnataka-polls-congress-victory-seats-with-more-margins-comparison-2018-bjp-2378977-2023-05-14\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/pti05_13_2023_000267b_0-sixteen_nine.jpg?VersionId=rMsQFThHHhS1Q6sdgH.MfXwi_4KXYo24\"> </a> Huge Congress mandate but few close calls  Karnataka polls witnessed more narrow margins than  "
+                        ],
+                        "pubDate": [
+                            "Sun, 14 May 2023 10:42:43+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "ICYMI, Anil Kumble and his wife Chetana also walked the Cannes red carpet. Pics here"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/celebrity/story/anil-kumble-wife-chetana-cannes-2023-red-carpet-pics-2380857-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/celebrity/story/anil-kumble-wife-chetana-cannes-2023-red-carpet-pics-2380857-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/anil_kumble_cannes-sixteen_nine.jpg?VersionId=hVyXu5Q.UvOGXUKPsasRfbYH6P0acIXV\"> </a> ICYMI Anil Kumble and his wife Chetana also walked the Cannes red carpet Pics here "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:08:06+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Amy Jackson flaunts a risque high-slit black gown at Cannes Film Festival 2023"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/fashion/story/amy-jackson-flaunts-a-risque-high-slit-black-gown-at-cannes-film-festival-2023-2380837-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/fashion/story/amy-jackson-flaunts-a-risque-high-slit-black-gown-at-cannes-film-festival-2023-2380837-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/amy_jackson_at_cannes-sixteen_nine.png?VersionId=E8aMkEsnZczD3bkBPyLu6kRX62mmPEWo\"> </a> Amy Jackson flaunts a risque highslit black gown at Cannes Film Festival  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:27:52+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sara Ali Khan’s ‘modern Indian’ look for Cannes Day 2: Decoded"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/lifestyle/fashion/story/sara-ali-khans-modern-indian-look-for-cannes-day-2-decoded-2380779-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/lifestyle/fashion/story/sara-ali-khans-modern-indian-look-for-cannes-day-2-decoded-2380779-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/gettyimages-1491043537-sixteen_nine.jpg?VersionId=DCgkDYnRnI41ImLSdxUuqilwGx_JFbdp\"> </a> Sara Ali Khans modern Indian look for Cannes Day  Decoded "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:17:08+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Alleged pics of BTS’ V and BLACKPINK’s Jennie holding hands in Paris go viral. Taennie trends"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/korean-wave/story/alleged-pics-of-bts-v-and-blackpinks-jennie-holding-hands-in-paris-go-viral-taennie-trends-2380702-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/korean-wave/story/alleged-pics-of-bts-v-and-blackpinks-jennie-holding-hands-in-paris-go-viral-taennie-trends-2380702-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/assets/202305/IMG_3847-original--sixteen_nine-sixteen_nine.jpeg?VersionId=NJwYBhFQiZVGmvvNtTsz4pSvz8GUbmw0\"> </a> Alleged pics of BTS V and BLACKPINKs Jennie holding hands in Paris go viral Taennie trends "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 08:34:19+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Naga, the sacred serpent, has got too much bad press. It’s time to change that | OPINION "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/opinion-columns/story/sadhguru-opinion-naga-the-sacred-serpent-has-got-too-much-bad-press-its-time-to-change-that-2380371-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/opinion-columns/story/sadhguru-opinion-naga-the-sacred-serpent-has-got-too-much-bad-press-its-time-to-change-that-2380371-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sadhguruopk87_2_0-sixteen_nine.jpg?VersionId=6LEoFXWDld1EZteZB0oymFRRG_XWLfNV\"> </a> Naga the sacred serpent has got too much bad press Its time to change that  OPINION  "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 14:09:30+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Rubbing Mysore Pak into the wound | OPINION "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/opinion-columns/story/rubbing-mysore-pak-into-the-wound-opinion-2379990-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/opinion-columns/story/rubbing-mysore-pak-into-the-wound-opinion-2379990-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/mysorepakop12_2-sixteen_nine.jpg?VersionId=xH0lyPJ2i9IXDZ7nN8G.DCd03dPYKPbV\"> </a> Rubbing Mysore Pak into the wound  OPINION  "
+                        ],
+                        "pubDate": [
+                            "Tue, 16 May 2023 17:29:14+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Parineeti-Raghav, Swara-Fahad: The politics of love in Bollywood | OPINION  "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/opinion-columns/story/parineeti-chopra-raghav-chadha-swara-bhasker-fahad-ahmad-the-politics-of-love-in-bollywood-opinion-2379538-2023-05-15?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/opinion-columns/story/parineeti-chopra-raghav-chadha-swara-bhasker-fahad-ahmad-the-politics-of-love-in-bollywood-opinion-2379538-2023-05-15\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/lathaop90_2-sixteen_nine.jpg?VersionId=zEScK.YslOIbUiB5B5Uo_2qc_U71xsVH\"> </a> ParineetiRaghav SwaraFahad The politics of love in Bollywood  OPINION   "
+                        ],
+                        "pubDate": [
+                            "Mon, 15 May 2023 18:48:16+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Vocal for local: How Congress bent it like Modi in Karnataka | OPINION"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/opinion-columns/story/vocal-for-local-how-congress-bent-it-like-modi-in-karnataka-opinion-2378710-2023-05-13?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/opinion-columns/story/vocal-for-local-how-congress-bent-it-like-modi-in-karnataka-opinion-2378710-2023-05-13\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/befunky-collage_-_2023-05-13t154849.041_1-sixteen_nine.jpg?VersionId=wGMJxjbiNNMdM7jOysrk.HiUc82E11FW\"> </a> Vocal for local How Congress bent it like Modi in Karnataka  OPINION "
+                        ],
+                        "pubDate": [
+                            "Sat, 13 May 2023 15:54:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Army cannot remain unaffected by Pakistan’s divisions | OPINION"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/opinion-columns/story/army-cannot-remain-unaffected-by-pakistans-divisions-opinion-2378302-2023-05-12?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/opinion-columns/story/army-cannot-remain-unaffected-by-pakistans-divisions-opinion-2378302-2023-05-12\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/hhp98_2-sixteen_nine.jpg?VersionId=L6jcJU9rJ0Hfn6VzMP.EwckIXCvhZY10\"> </a> Army cannot remain unaffected by Pakistans divisions  OPINION "
+                        ],
+                        "pubDate": [
+                            "Fri, 12 May 2023 17:07:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Columbian President declares 'joy for country' as 4 children recovered alive in Amazon after plane crash"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/world/story/columbian-president-declares-joy-for-country-4-children-recovered-alive-in-amazon-plane-crash-2380901-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/world/story/columbian-president-declares-joy-for-country-4-children-recovered-alive-in-amazon-plane-crash-2380901-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/screenshot_2023-05-18_151515-sixteen_nine.png?VersionId=lTmf54aHEFWXvQJWdK988q0hM8ge0FDa\"> </a> Columbian President declares joy for country as  children recovered alive in Amazon after plane crash "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:21:48+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Russia fires 30 cruise missiles at Ukrainian targets; Ukraine says 29 were shot down"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/world/story/russia-ukraine-war-russia-fires-30-cruise-missiles-ukrainian-targets-ukraine-29-shot-down-2380891-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/world/story/russia-ukraine-war-russia-fires-30-cruise-missiles-ukrainian-targets-ukraine-29-shot-down-2380891-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/missile-sixteen_nine.jpg?VersionId=U9shAGLSdA8Ra08SxodqkDzeD5qDkBAB\"> </a> Russia fires  cruise missiles at Ukrainian targets Ukraine says  were shot down "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:59:57+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Pak cops surround Imran Khan's Lahore home with ultimatum about to expire"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/world/story/pakistan-unrest-2380860-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/world/story/pakistan-unrest-2380860-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202305/lahore_road_blocked-sixteen_nine.jpg?VersionId=WdvyMkWCLH76W2zlRM5QccLbhDuJnj6s\"> </a> Pak cops surround Imran Khans Lahore home with ultimatum about to expire "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:03:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "8-year-old girl dies in US Border Patrol custody in Texas"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/world/story/8-year-old-girl-dies-in-border-patrol-custody-in-texas-2380789-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/world/story/8-year-old-girl-dies-in-border-patrol-custody-in-texas-2380789-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/death_4-sixteen_nine.jpg?VersionId=IHqfg.QKJTbmu_q67iqNtukcynSJ63h8\"> </a> yearold girl dies in US Border Patrol custody in Texas "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:24:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "WBBSE Madhyamik Result 2023 on India Today | How to check "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/education-today/news/story/wbbse-madhyamik-result-2023-on-india-today-how-to-check-2380897-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/education-today/news/story/wbbse-madhyamik-result-2023-on-india-today-how-to-check-2380897-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/glenn-carstens-peters-npxxwgq33zq-unsplash_6-sixteen_nine.jpg?VersionId=g6yJu58gxiR.VRdETtRvyHkemmNdiu0Z\"> </a> WBBSE Madhyamik Result  on India Today  How to check  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:35:56+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "6 highest-paid jobs for women in 2023"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/education-today/jobs-and-careers/story/6-highest-paid-jobs-for-women-in-2023-2380894-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/education-today/jobs-and-careers/story/6-highest-paid-jobs-for-women-in-2023-2380894-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/kobu-agency-7okkfhxrxnw-unsplash-sixteen_nine.jpg?VersionId=ViEBKD7Hv8MK8SW3Kh9k33WNKH3l1PVv\"> </a>  highestpaid jobs for women in  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:13:22+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "WBBSE Madhyamik Result 2023: How to check West Bengal 10th results on websites, mobile app and SMS"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/education-today/notification/story/wbbse-madhyamik-result-2023-how-to-check-west-bengal-10th-results-on-websites-mobile-app-and-sms-2380828-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/education-today/notification/story/wbbse-madhyamik-result-2023-how-to-check-west-bengal-10th-results-on-websites-mobile-app-and-sms-2380828-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/wbbse_madhyamik_result_2023_how_to_check_west_bengal_10th_results_on_websites_mobile_app_and_sms-sixteen_nine.jpg?VersionId=V4XHV88LBG3.EihudNMQC_GjLUeJLbwy\"> </a> WBBSE Madhyamik Result  How to check West Bengal th results on websites mobile app and SMS "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:49:21+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Tripura TBSE Classes 10, 12 result 2023 to be OUT by this date | Check details here "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/education-today/news/story/tripura-tbse-classes-10-12-result-2023-to-be-out-by-this-date-check-details-here-2380865-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/education-today/news/story/tripura-tbse-classes-10-12-result-2023-to-be-out-by-this-date-check-details-here-2380865-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/john-schnobrich-yfbyvpeghfq-unsplash_4-sixteen_nine.jpg?VersionId=XMGnJSwSqFUncH1yz_kjC0IuAb5i37IW\"> </a> Tripura TBSE Classes   result  to be OUT by this date  Check details here  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:45:34+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Tamil Nadu SSLC 10th Result 2023 date, time confirmed: Tamil Nadu matric results tomorrow at 10 am  "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/education-today/notification/story/tamil-nadu-sslc-10th-result-2023-date-time-confirmed-tamil-nadu-matric-results-tomorrow-at-10-am-2380803-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/education-today/notification/story/tamil-nadu-sslc-10th-result-2023-date-time-confirmed-tamil-nadu-matric-results-tomorrow-at-10-am-2380803-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/tamil_nadu_sslc_10th_result_2023_date_time_confirmed-sixteen_nine.jpg?VersionId=eAQFvoBD47CLhpWEmrzC56sfNRg1KD2H\"> </a> Tamil Nadu SSLC th Result  date time confirmed Tamil Nadu matric results tomorrow at  am   "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:49:18+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC stays West Bengal government's order banning film 'The Kerala Story'"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/the-kerala-story-bengal-ban-supreme-court-2380900-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/the-kerala-story-bengal-ban-supreme-court-2380900-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/the_kerala_story_6-sixteen_nine.jpg?VersionId=uXLlBc9wDf0m1zkw2ZVwq4eOM24577Cp\"> </a> SC stays West Bengal governments order banning film The Kerala Story "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:18:53+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC declines to issue stay on Patna HC's order over caste census"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/supreme-court-stay-bihar-high-court-caste-census-nitish-kumar-2380870-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/supreme-court-stay-bihar-high-court-caste-census-nitish-kumar-2380870-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sc_3-sixteen_nine.jpg?VersionId=hMnwe5vsdytR_PKPRnLwfpH.d7orTGBg\"> </a> SC declines to issue stay on Patna HCs order over caste census "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 14:20:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Govt shuffles cabinet, Arjun Ram Meghwal replaces Kiren Rijiju as Law Minister"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/kiren-rijiju-removed-as-law-minister-arjun-ram-meghwal-rijiju-cabinet-shuffle-2380738-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/kiren-rijiju-removed-as-law-minister-arjun-ram-meghwal-rijiju-cabinet-shuffle-2380738-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-10-26-am-4898-sixteen_nine.jpg?VersionId=kClZGu7F6fDbqgjSZKAnmlwuQ5lV.IM9\"> </a> Govt shuffles cabinet Arjun Ram Meghwal replaces Kiren Rijiju as Law Minister "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 10:09:08+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "SC notice to ED on former Delhi minister Satyendar Jain's bail plea in money laundering case"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/story/delhi-minister-satyendar-jain-sc-seeks-ed-response-bail-plea-in-money-laundering-case-2380855-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/story/delhi-minister-satyendar-jain-sc-seeks-ed-response-bail-plea-in-money-laundering-case-2380855-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/screenshot_2023-05-18_135513-sixteen_nine.png?VersionId=wNU0ES33B.hRgUFtfvIrUWtYJ.i5SGaa\"> </a> SC notice to ED on former Delhi minister Satyendar Jains bail plea in money laundering case "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:58:45+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Stay away from sugar substitutes if you're trying to lose weight. Here's why"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/health/story/stay-away-from-sugar-substitutes-if-youre-trying-to-lose-weight-heres-why-2380433-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/health/story/stay-away-from-sugar-substitutes-if-youre-trying-to-lose-weight-heres-why-2380433-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sugar_substitute-sixteen_nine.png?VersionId=77KPO0nwneHVHvt9ED82lVe__FURIkGk\"> </a> Stay away from sugar substitutes if youre trying to lose weight Heres why "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 18:57:13+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "World Hypertension Day: How to control your blood pressure?"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/health/story/world-hypertension-day-how-to-control-your-blood-pressure-2380379-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/health/story/world-hypertension-day-how-to-control-your-blood-pressure-2380379-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/world_hypertension_day-sixteen_nine.png?VersionId=Y3DbT.FQy.3iuN7u57d2arTYEAN6tbjU\"> </a> World Hypertension Day How to control your blood pressure "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 15:27:49+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Lack of deep sleep may increase risk of stroke, Alzheimer's: Study"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/health/story/lack-of-deep-sleep-may-increase-risk-of-stroke-alzheimers-study-2380046-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/health/story/lack-of-deep-sleep-may-increase-risk-of-stroke-alzheimers-study-2380046-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sleep_apnea-sixteen_nine.png?VersionId=ZEo5IEHUieCLwOWdxL5.nu_HwOpIjG49\"> </a> Lack of deep sleep may increase risk of stroke Alzheimers Study "
+                        ],
+                        "pubDate": [
+                            "Tue, 16 May 2023 19:10:30+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Craving sugar? These foods can help you with that"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/health/story/craving-sugar-these-foods-can-help-you-with-that-2380019-2023-05-16?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/health/story/craving-sugar-these-foods-can-help-you-with-that-2380019-2023-05-16\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/sugar_cravings_pic-sixteen_nine.png?VersionId=_sm44zcPTOkEkeu.eN69RPqapQxsWoSt\"> </a> Craving sugar These foods can help you with that "
+                        ],
+                        "pubDate": [
+                            "Tue, 16 May 2023 18:29:27+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Why 41,000 women ‘missing’ in Gujarat is no Kerala Story"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india-today-insight/story/why-41000-women-missing-in-gujarat-is-no-kerala-story-2380513-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india-today-insight/story/why-41000-women-missing-in-gujarat-is-no-kerala-story-2380513-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/story_of_the_day_1-sixteen_nine.jpg?VersionId=jjDb.3cxooT0BLoG.LQfdaDIOGXN3IbK\"> </a> Why  women missing in Gujarat is no Kerala Story "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 17:54:00+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Why IAS officer Manjunath Bhajantri is in the news again"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india-today-insight/story/why-ias-officer-manjunath-bhajantri-is-in-the-news-again-2380505-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india-today-insight/story/why-ias-officer-manjunath-bhajantri-is-in-the-news-again-2380505-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/spotlight-sixteen_nine.jpeg?VersionId=iz2rDTAD6K511WzZRFmhqNCHokV3ttPl\"> </a> Why IAS officer Manjunath Bhajantri is in the news again "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 17:49:42+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "A decade after the AugustaWestland fiasco, IAF renews hunt for VVIP helicopters"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india-today-insight/story/a-decade-after-the-augustawestland-fiasco-iaf-renews-hunt-for-vvip-helicopters-2380501-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india-today-insight/story/a-decade-after-the-augustawestland-fiasco-iaf-renews-hunt-for-vvip-helicopters-2380501-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/defence-sixteen_nine.jpg?VersionId=1AFHwRyrnnALqlPUo3ocMshEStmzO0Tr\"> </a> A decade after the AugustaWestland fiasco IAF renews hunt for VVIP helicopters "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 17:45:54+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Why Chhattisgarh is organising a global Ramayana competition"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india-today-insight/story/why-chhattisgarh-is-organising-a-global-ramayana-competition-2380498-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india-today-insight/story/why-chhattisgarh-is-organising-a-global-ramayana-competition-2380498-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/ground_report-sixteen_nine.jpeg?VersionId=ZKKRORR_6SfG_.2bI7l4Ajyup9ZzYxq8\"> </a> Why Chhattisgarh is organising a global Ramayana competition "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 17:42:48+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Zakir Naik's agent converted my son Saurabh to Saleem: Dad of arrested terror-accused "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/story/saurabh-alias-mohammed-saleem-zakir-naik-hizb-ut-tahrir-hut-radical-outfit-religious-conversion-2380833-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/collage_maker-18-may-2023-01-51-pm-2456-sixteen_nine-_3.jpg?VersionId=SML56lS1jajXNzSWkToWcu67zZGl9EOn\"> </a> Zakir Naiks agent converted my son Saurabh to Saleem Dad of arrested terroraccused  "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 15:53:36+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Fact Check: Did a judge punch a lawyer in Maharashtra courthouse? Nope, this is two lawyers fighting in UP"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/fact-check/story/did-a-judge-punch-a-lawyer-in-maharashtra-courthouse-nope-two-lawyers-fighting-up-2380644-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/fact-check/story/did-a-judge-punch-a-lawyer-in-maharashtra-courthouse-nope-two-lawyers-fighting-up-2380644-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/cover_5-sixteen_nine.jpg?VersionId=KU0eCXH.hU1hNw0sEfyd.jUhHbI_cSKd\"> </a> Fact Check Did a judge punch a lawyer in Maharashtra courthouse Nope this is two lawyers fighting in UP "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 23:32:29+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Fact Check: Video of Pak woman recounting police violence is from Imran Khan regime, NOT after his arrest"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/fact-check/story/video-pakistan-woman-recounting-police-violence-from-imran-khan-regime-not-after-his-arrest-2380630-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/fact-check/story/video-pakistan-woman-recounting-police-violence-from-imran-khan-regime-not-after-his-arrest-2380630-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/cover_4_0-sixteen_nine.jpg?VersionId=ID15q_pPZBm0dmffwYdAr61BAChStBMs\"> </a> Fact Check Video of Pak woman recounting police violence is from Imran Khan regime NOT after his arrest "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 22:41:55+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Photo of cow slaughtered on BJP flag is NOT from Karnataka, it’s from a 2022 Manipur incident"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/fact-check/story/photo-of-cow-slaughtered-on-bjp-flag-is-not-from-karnataka-its-from-a-2022-manipur-incident-2380616-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/fact-check/story/photo-of-cow-slaughtered-on-bjp-flag-is-not-from-karnataka-its-from-a-2022-manipur-incident-2380616-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/cover_3-sixteen_nine.jpeg?VersionId=u55XdfIdaheJEaN03qRpKyKOcShEQAH1\"> </a> Photo of cow slaughtered on BJP flag is NOT from Karnataka its from a  Manipur incident "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 21:30:44+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Fact Check: This video shows AIMIM leader from Telangana - NOT Karnataka Congress MLA"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/fact-check/story/video-shows-aimim-leader-from-telangana-not-karnataka-congress-mla-fact-check-2380577-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/fact-check/story/video-shows-aimim-leader-from-telangana-not-karnataka-congress-mla-fact-check-2380577-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/telanga_aimim_cover-sixteen_nine.jpeg?VersionId=T_Hlq4LzbSMlMGhax9O2NC5iL2TnlziJ\"> </a> Fact Check This video shows AIMIM leader from Telangana  NOT Karnataka Congress MLA "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 20:03:42+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Fact Check: Video of Somalia floods FALSELY shared as Cyclone Mocha in Myanmar "
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/fact-check/story/sideo-of-somalia-floods-falsely-shared-as-cyclone-mocha-in-myanmar-fact-check-2380454-2023-05-17?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/fact-check/story/sideo-of-somalia-floods-falsely-shared-as-cyclone-mocha-in-myanmar-fact-check-2380454-2023-05-17\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202305/image_1_5_0-sixteen_nine.jpg?VersionId=R4Z3rGmnHgxMyVPlTLDyDK8rT1PUH9Uk\"> </a> Fact Check Video of Somalia floods FALSELY shared as Cyclone Mocha in Myanmar  "
+                        ],
+                        "pubDate": [
+                            "Wed, 17 May 2023 16:43:32+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Congress declares Siddaramaiah as Karnataka CM, Shivakumar as his deputy"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/video/congress-declares-siddaramaiah-as-karnataka-cm-shivakumar-as-his-deputy-2380820-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/video/congress-declares-siddaramaiah-as-karnataka-cm-shivakumar-as-his-deputy-2380820-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/whatsapp_image_2023-05-18_at_11.10.12_am-sixteen_nine.jpeg?VersionId=Zo6mKEEHIMPcmcya1e5raZURbof03KFP\"> </a> Congress declares Siddaramaiah as Karnataka CM Shivakumar as his deputy "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:55:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Union cabinet rijig: Kiren Rijiju replaced as Law Minister, takes over Earth Sciences Ministry"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/india-s-agenda/video/union-cabinet-rijig-kiren-rijiju-replaced-as-law-minister-takes-over-earth-sciences-ministry-2380812-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/kiren_rijiju_1-sixteen_nine.png?VersionId=ubcp.YkROWWHGOedLG546DDPo69ATNau\"> </a> Union cabinet rijig Kiren Rijiju replaced as Law Minister takes over Earth Sciences Ministry "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:42:12+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sonia Gandhi acts as peacemaker in Karnataka CM face crisis; There is more responsibility, says DK Shivakumar; more"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/programme/the-burning-question/video/sonia-gandhi-acts-as-peacemaker-in-karnataka-cm-face-crisis-there-is-more-responsibility-says-dk-shivakumar-more-2380801-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/dk_10-sixteen_nine.jpg?VersionId=G_MEeiaA3ZzNtz.4m77Uzr3JHJdar5AN\"> </a> Sonia Gandhi acts as peacemaker in Karnataka CM face crisis There is more responsibility says DK Shivakumar more "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 12:22:05+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Over Rs 8,000 crore allocated for Disaster Management in Odisha : PM Modi"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/india/video/over-rs-8000-crore-allocated-for-disaster-management-in-odisha-pm-modi-2380850-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/india/video/over-rs-8000-crore-allocated-for-disaster-management-in-odisha-pm-modi-2380850-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/modi_tiger-sixteen_nine.png?VersionId=Wii08LYjSAaBHq2VilYEYNT_gDLEZ6VR\"> </a> Over Rs  crore allocated for Disaster Management in Odisha  PM Modi "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:48:31+05:30"
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Supreme Court upholds Tamil Nadu laws allowing Jallikattu"
+                        ],
+                        "link": [
+                            " https://www.indiatoday.in/law/supreme-court/video/supreme-court-upholds-tamil-nadu-laws-allowing-jallikattu-2380844-2023-05-18?utm_source=rss "
+                        ],
+                        "description": [
+                            " <a href=\"https://www.indiatoday.in/law/supreme-court/video/supreme-court-upholds-tamil-nadu-laws-allowing-jallikattu-2380844-2023-05-18\"> <img align=\"left\" hspace=\"2\" height=\"180\" width=\"305\" alt=\"\" border=\"0\" src=\"https://akm-img-a-in.tosshub.com/indiatoday/images/video/202305/jalikattu-sixteen_nine.png?VersionId=SF5vDoWtExK.d6qFF8pGrBBwakdk1v0b\"> </a> Supreme Court upholds Tamil Nadu laws allowing Jallikattu "
+                        ],
+                        "pubDate": [
+                            "Thu, 18 May 2023 13:36:42+05:30"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
